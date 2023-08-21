@@ -1,16 +1,30 @@
-# first_santander_challenge
+# First Santander Challenge
 
-A new Flutter project.
+Este é o meu primeiro projeto Flutter, desenvolvido como parte do Desafio do bootcamp Santander.
 
-## Getting Started
+## Objetivos
 
-This project is a starting point for a Flutter application.
+Neste desafio, foram cumpridos os seguintes objetivos:
 
-A few resources to get you started if this is your first Flutter project:
+- Instalação do Flutter e configuração do ambiente de desenvolvimento.
+- Criação de um novo projeto Flutter.
+- Upload do projeto para o GitHub.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Sobre o Projeto
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Este projeto é uma introdução ao desenvolvimento em Flutter. Ele serve como uma base para futuros módulos e desafios, preparando o ambiente e adquirindo familiaridade com o framework.
+
+## Como Executar
+
+Para executar o projeto em sua máquina, siga os passos abaixo:
+
+1. Certifique-se de ter o Flutter instalado em sua máquina.
+2. Clone este repositório: `git clone https://github.com/seu_usuario/meu-primeiro-projeto-flutter.git`
+3. Navegue até o diretório do projeto: `cd meu-primeiro-projeto-flutter`
+4. Execute o projeto: `flutter run`
+
+
+
+
+
+
